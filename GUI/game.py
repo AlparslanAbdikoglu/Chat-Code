@@ -3,7 +3,7 @@ from tkinter import ttk
 
 # Create the main window
 root = tk.Tk()
-root.title("chatgamee")
+root.title("chatgame")
 root.geometry("600x400")
 root.configure(bg="midnight blue")
 
